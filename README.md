@@ -1,1 +1,2 @@
-# google-homepage
+# Google Homepage
+# link to https://github.com/janaquino/google-homepage
